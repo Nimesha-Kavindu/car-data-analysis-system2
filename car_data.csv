@@ -1,0 +1,1001 @@
+Brand,Price,Body,Mileage,EngineV,Engine Type,Registration,Year,Model,Been in traffic incident,Fuel Economy
+BMW,25368.6,hatchback,388,1.5,Petrol,yes,2004,320,no,7.1
+BMW,17966.68,SUV,473,1.2,Diesel,yes,2016,X5,no,11.4
+Mercedes-Benz,9778.24,sedan,500,1.4,Gas,yes,2016,E 320,no,6.1
+BMW,22322.66,hatchback,475,1.0,Gas,no,2006,X5,no,5.2
+Toyota,28814.41,SUV,402,1.1,Gas,yes,2011,Camry,no,8.8
+Audi,28422.87,hatchback,325,1.8,Petrol,no,2023,A6,no,7.0
+Audi,17237.09,crossover,438,1.5,Diesel,yes,2019,A4,no,5.9
+Toyota,29312.11,SUV,343,1.0,Diesel,yes,2011,Corolla,no,5.6
+Ford,13443.6,hatchback,425,1.0,Gas,yes,1989,Focus,no,12.8
+Audi,24814.37,SUV,421,1.4,Diesel,yes,2022,A4,yes,6.6
+Audi,17637.72,van,448,1.4,Gas,yes,2018,A4,no,12.2
+Toyota,17670.31,hatchback,500,2.0,Diesel,yes,1991,Corolla,no,9.5
+Honda,14724.84,crossover,387,2.7,Gas,yes,1990,Civic,no,14.9
+BMW,16652.88,hatchback,474,1.0,Gas,yes,1995,M3,no,12.3
+BMW,29351.44,hatchback,294,1.0,Diesel,yes,1998,X5,no,12.3
+Toyota,18591.43,sedan,500,1.4,Petrol,no,2002,Rav 4,no,6.9
+BMW,23755.94,van,400,2.2,Diesel,yes,2008,X5,no,7.5
+Mercedes-Benz,16397.84,SUV,442,2.5,Gas,yes,2001,C 200,no,10.7
+Toyota,33043.63,SUV,345,1.0,Petrol,no,2012,Rav 4,no,9.2
+BMW,16362.91,crossover,500,1.0,Diesel,yes,2006,X5,no,7.9
+Ford,30990.94,hatchback,367,1.9,Diesel,yes,1989,F-150,yes,11.4
+Audi,40154.52,SUV,255,1.8,Gas,yes,2013,Q7,no,14.9
+Honda,17006.18,SUV,422,1.3,Diesel,yes,1991,Civic,no,9.4
+Ford,14695.63,SUV,423,1.7,Gas,yes,2013,Explorer,no,10.9
+Ford,27870.37,hatchback,485,1.5,Diesel,yes,2011,F-150,no,13.5
+Ford,22432.06,crossover,408,1.3,Petrol,yes,2002,F-150,no,7.3
+Mercedes-Benz,16065.73,SUV,494,1.6,Petrol,yes,2019,E 320,no,14.3
+Ford,30442.52,sedan,322,2.2,Diesel,yes,2002,Explorer,no,7.1
+Mercedes-Benz,23343.3,hatchback,474,1.8,Petrol,yes,1990,C 200,no,13.1
+Toyota,26436.49,sedan,387,1.8,Gas,yes,1996,Camry,no,6.5
+BMW,27062.14,van,375,1.5,Petrol,yes,2008,X5,no,12.8
+Honda,29402.25,crossover,496,2.3,Petrol,yes,2021,Civic,no,9.8
+BMW,13362.51,crossover,385,1.2,Gas,yes,2012,M3,yes,6.2
+Honda,22470.25,van,454,2.3,Gas,yes,2004,Civic,no,7.3
+Honda,16846.7,crossover,480,1.7,Gas,yes,2003,Accord,no,11.5
+Toyota,46939.22,hatchback,394,3.6,Diesel,yes,2011,Corolla,yes,10.8
+Ford,10949.68,hatchback,500,1.0,Diesel,yes,2021,Focus,no,10.0
+Toyota,17753.6,crossover,500,1.2,Diesel,yes,2016,Corolla,no,11.5
+Toyota,10330.5,SUV,500,2.4,Gas,yes,2000,Rav 4,no,14.4
+Toyota,33499.02,sedan,418,1.9,Petrol,yes,1991,Rav 4,no,12.5
+BMW,10125.97,crossover,500,1.3,Petrol,yes,2024,320,no,7.1
+Ford,22566.69,sedan,407,1.0,Diesel,yes,2000,Focus,no,14.9
+Ford,20022.07,sedan,398,1.3,Gas,yes,2014,Focus,no,10.0
+Ford,26462.57,hatchback,433,2.6,Diesel,yes,1996,F-150,no,9.3
+Toyota,24850.34,sedan,372,1.6,Gas,yes,2014,Rav 4,no,14.4
+Mercedes-Benz,12209.25,sedan,406,1.0,Gas,yes,2020,E 320,no,8.4
+BMW,7213.31,crossover,443,1.2,Petrol,yes,2006,320,no,11.7
+Mercedes-Benz,24755.61,sedan,427,1.5,Diesel,yes,1998,E 320,no,14.0
+Toyota,26655.24,hatchback,490,2.0,Gas,no,1991,Corolla,yes,10.7
+Mercedes-Benz,31703.62,crossover,396,1.5,Diesel,yes,2004,C 200,no,6.2
+Ford,16933.66,sedan,500,1.4,Gas,yes,1990,Explorer,yes,11.6
+Toyota,3431.44,sedan,497,1.2,Gas,yes,1999,Corolla,no,7.8
+Audi,26781.27,sedan,398,1.6,Petrol,yes,1990,A6,no,5.5
+Mercedes-Benz,23321.89,hatchback,454,1.4,Diesel,yes,1996,Sprinter 212,no,12.3
+Honda,17153.57,SUV,442,2.0,Gas,yes,1992,Civic,no,13.2
+Audi,37293.09,van,335,1.3,Petrol,yes,2006,A4,no,6.0
+Toyota,17147.19,hatchback,473,1.4,Petrol,yes,2014,Camry,no,7.3
+Honda,19253.07,sedan,432,1.9,Gas,yes,1996,Accord,no,10.6
+Honda,16248.63,SUV,437,1.0,Gas,yes,2024,CR-V,no,5.5
+Toyota,15469.56,crossover,420,1.0,Petrol,yes,2003,Rav 4,no,13.6
+Honda,21524.3,hatchback,443,2.0,Diesel,yes,2004,Civic,no,10.0
+Audi,18909.21,sedan,427,1.3,Petrol,yes,1991,Q7,no,13.8
+Ford,23977.95,van,469,1.5,Diesel,no,1989,F-150,no,7.9
+BMW,19380.78,van,405,2.2,Diesel,yes,2006,320,no,11.6
+BMW,31750.78,crossover,424,1.8,Petrol,yes,2008,320,no,10.3
+BMW,27489.95,crossover,419,1.4,Gas,yes,2014,M3,no,12.1
+BMW,19193.64,sedan,441,1.0,Gas,yes,1989,320,no,7.3
+Audi,16494.95,sedan,422,1.0,Gas,yes,1990,A6,no,10.8
+BMW,23960.67,SUV,438,2.7,Petrol,yes,2011,320,no,10.5
+Toyota,35842.41,crossover,328,1.9,Diesel,yes,2004,Rav 4,no,10.5
+Ford,31924.72,sedan,375,2.7,Diesel,no,1993,F-150,no,13.5
+Honda,16599.61,SUV,486,1.5,Petrol,yes,2011,Civic,no,6.9
+Ford,13627.17,sedan,433,1.0,Gas,yes,1993,Focus,yes,13.5
+BMW,45341.2,SUV,285,1.7,Petrol,yes,2014,320,no,9.7
+BMW,18395.2,crossover,500,1.4,Petrol,yes,1994,M3,no,13.6
+BMW,38843.56,sedan,325,1.0,Petrol,yes,2002,M3,no,13.2
+Toyota,31851.17,sedan,368,2.1,Petrol,no,1993,Camry,no,5.3
+BMW,14402.62,SUV,426,1.2,Gas,yes,2001,320,no,11.3
+Toyota,23689.13,hatchback,476,1.2,Petrol,yes,2017,Rav 4,no,11.6
+Mercedes-Benz,25342.71,SUV,377,1.2,Diesel,yes,2017,Sprinter 212,no,14.2
+Ford,12755.9,crossover,469,2.2,Diesel,yes,2009,Explorer,no,7.7
+Toyota,12767.36,crossover,437,1.3,Diesel,no,2001,Rav 4,no,14.3
+BMW,27355.66,sedan,399,2.1,Petrol,yes,2003,M3,no,11.8
+Toyota,9409.56,van,479,1.0,Diesel,yes,1999,Camry,no,11.5
+Toyota,22775.19,sedan,393,1.1,Diesel,yes,1989,Camry,no,7.9
+Toyota,27486.21,sedan,417,1.7,Diesel,yes,1996,Rav 4,no,6.6
+Ford,23620.55,crossover,444,1.1,Diesel,yes,2009,F-150,no,5.2
+BMW,18110.14,sedan,500,1.0,Petrol,yes,2002,X5,no,12.2
+BMW,13642.8,sedan,500,1.4,Gas,yes,2009,M3,no,13.8
+Honda,11279.67,sedan,449,1.1,Gas,yes,2003,Civic,no,7.4
+Audi,21214.4,sedan,486,1.7,Gas,yes,1996,Q7,no,13.0
+Mercedes-Benz,13100.43,crossover,500,2.3,Petrol,yes,2004,E 320,no,12.4
+Ford,27471.75,hatchback,427,2.0,Petrol,yes,1997,Explorer,no,5.4
+BMW,23029.07,sedan,420,1.8,Gas,yes,2020,X5,no,9.1
+Mercedes-Benz,12034.15,sedan,481,1.0,Gas,yes,2003,Sprinter 212,no,13.2
+Audi,16316.91,sedan,392,1.3,Gas,yes,1995,A4,no,6.6
+Ford,24438.24,van,400,1.1,Gas,yes,2014,Focus,no,9.6
+Toyota,14550.39,SUV,500,1.8,Diesel,yes,1998,Rav 4,no,12.3
+BMW,17834.34,sedan,401,2.0,Diesel,yes,2006,320,no,14.7
+Ford,23448.07,SUV,398,1.0,Diesel,yes,1990,Explorer,no,11.0
+Toyota,51101.81,crossover,316,1.0,Petrol,yes,2000,Corolla,no,7.5
+Ford,23747.26,crossover,331,2.5,Diesel,yes,2016,Explorer,no,13.1
+Toyota,18826.24,hatchback,479,1.0,Gas,yes,2006,Camry,no,10.4
+Honda,19921.71,hatchback,421,2.3,Petrol,no,2009,Accord,no,8.3
+Ford,33251.11,hatchback,356,2.8,Petrol,yes,1997,F-150,no,5.4
+Ford,25882.97,van,424,1.7,Gas,yes,2015,Explorer,no,8.6
+Honda,11802.25,crossover,500,1.2,Diesel,yes,1997,CR-V,no,9.1
+Mercedes-Benz,22849.45,crossover,436,1.5,Gas,yes,2001,Sprinter 212,no,5.3
+BMW,25498.67,SUV,374,1.2,Diesel,no,2002,M3,no,5.9
+Ford,29369.26,sedan,399,1.8,Diesel,yes,2023,F-150,no,11.3
+Audi,19671.03,hatchback,500,1.3,Gas,yes,2014,A4,no,8.4
+Honda,32688.01,crossover,281,1.7,Petrol,no,2020,Accord,no,10.8
+Honda,26013.41,hatchback,373,2.0,Petrol,yes,1994,Civic,no,12.5
+Toyota,25287.46,sedan,417,1.7,Diesel,yes,2015,Corolla,no,5.5
+Honda,19611.22,crossover,369,2.3,Petrol,yes,2015,CR-V,no,5.2
+Ford,20270.4,SUV,393,1.6,Diesel,no,2007,Focus,no,14.2
+Honda,24270.92,sedan,381,1.2,Petrol,yes,1998,CR-V,no,6.6
+Mercedes-Benz,11001.18,hatchback,444,2.1,Diesel,yes,2015,Sprinter 212,no,8.0
+Ford,30906.7,van,315,1.0,Petrol,yes,1995,F-150,no,6.2
+BMW,13764.5,crossover,491,1.5,Gas,yes,2024,320,no,13.8
+Honda,45151.63,sedan,294,2.2,Petrol,yes,2008,CR-V,no,15.0
+Ford,25974.89,hatchback,416,1.3,Diesel,yes,2021,F-150,no,14.8
+Honda,15041.79,crossover,450,1.9,Gas,yes,1999,Accord,no,7.1
+Honda,23428.53,crossover,361,1.1,Gas,yes,2019,Accord,yes,6.5
+Mercedes-Benz,20911.75,van,438,1.7,Gas,yes,1993,E 320,no,10.3
+Audi,25777.44,hatchback,417,1.5,Diesel,yes,1990,A6,yes,7.7
+BMW,33708.6,crossover,364,2.2,Diesel,yes,2000,320,yes,5.9
+BMW,24806.04,hatchback,451,2.1,Gas,yes,2005,X5,no,9.4
+BMW,35427.6,hatchback,409,2.4,Diesel,yes,1999,M3,no,8.5
+Audi,29738.97,sedan,370,2.0,Gas,yes,2019,A4,no,12.6
+Mercedes-Benz,17816.49,sedan,466,1.0,Gas,yes,2020,E 320,no,8.2
+Ford,20959.01,crossover,452,1.8,Gas,yes,2006,Focus,no,7.4
+Honda,24348.5,sedan,372,1.0,Petrol,yes,2024,Accord,no,5.4
+Mercedes-Benz,20038.43,crossover,467,1.5,Gas,yes,1997,C 200,no,8.6
+Honda,20033.83,van,470,1.0,Diesel,yes,2001,Civic,no,8.1
+BMW,26960.25,sedan,449,2.2,Gas,yes,1989,320,yes,7.8
+Honda,28890.57,crossover,453,1.4,Diesel,yes,2000,Civic,no,13.2
+Toyota,31402.04,hatchback,318,2.1,Petrol,yes,2010,Camry,no,12.8
+Toyota,37159.55,SUV,313,2.7,Diesel,yes,2024,Corolla,no,6.7
+Ford,18638.82,sedan,336,1.1,Gas,yes,2016,Explorer,no,10.8
+Toyota,7732.47,van,500,1.0,Diesel,yes,2015,Camry,no,9.2
+Mercedes-Benz,34112.07,sedan,405,2.2,Diesel,yes,2002,E 320,no,10.5
+BMW,34059.87,crossover,413,1.9,Gas,yes,2022,320,no,7.3
+Toyota,28918.88,crossover,428,2.0,Petrol,yes,2013,Corolla,no,12.4
+Mercedes-Benz,19038.4,SUV,436,1.2,Petrol,yes,2009,E 320,no,9.9
+BMW,40472.05,hatchback,347,1.6,Diesel,yes,2016,320,no,6.5
+Audi,54865.32,sedan,322,2.0,Petrol,yes,2012,Q7,no,10.8
+Mercedes-Benz,20094.11,crossover,449,2.0,Gas,yes,2010,E 320,no,11.8
+Audi,33345.13,hatchback,379,2.6,Petrol,no,2006,Q7,no,7.4
+Honda,22903.26,SUV,406,1.0,Diesel,yes,2019,Accord,no,5.6
+Audi,11301.41,hatchback,457,2.4,Diesel,yes,2007,A6,no,14.1
+Honda,25974.87,hatchback,338,2.2,Gas,yes,1991,Accord,no,11.5
+Honda,19396.81,sedan,458,1.0,Diesel,yes,2009,CR-V,no,7.8
+Mercedes-Benz,35725.99,hatchback,400,1.8,Petrol,yes,1994,E 320,no,5.0
+BMW,32714.56,crossover,420,1.7,Diesel,yes,1989,X5,yes,10.0
+BMW,40304.49,crossover,295,1.9,Diesel,yes,1992,X5,no,14.0
+Ford,30710.47,sedan,352,1.6,Gas,yes,1994,Focus,no,12.2
+BMW,21125.59,sedan,411,1.8,Diesel,yes,1989,X5,no,12.4
+Toyota,24106.52,SUV,433,2.6,Petrol,yes,2007,Rav 4,no,5.4
+Audi,22731.61,crossover,353,1.5,Diesel,yes,2009,Q7,no,14.5
+BMW,20823.46,crossover,423,1.5,Gas,yes,2021,X5,yes,5.1
+Ford,18639.66,van,440,1.5,Petrol,yes,2018,Focus,no,7.2
+Audi,22023.71,crossover,500,2.2,Petrol,yes,2016,A6,no,13.5
+Honda,13447.02,hatchback,418,1.8,Petrol,yes,2000,Civic,no,5.0
+Audi,20246.19,sedan,345,1.5,Petrol,yes,2013,A4,no,13.6
+Ford,11527.66,hatchback,500,1.0,Gas,yes,1992,F-150,no,12.0
+Mercedes-Benz,19905.48,sedan,500,1.6,Diesel,yes,2019,Sprinter 212,no,12.9
+Mercedes-Benz,13627.93,crossover,408,1.1,Gas,yes,2010,E 320,no,12.8
+Audi,34511.37,SUV,306,2.7,Diesel,yes,1994,A4,no,11.0
+Ford,21570.8,sedan,456,1.7,Gas,yes,2002,F-150,no,8.1
+Honda,20855.53,hatchback,438,1.3,Petrol,yes,2003,Accord,no,7.2
+BMW,21793.65,hatchback,455,1.1,Petrol,yes,2005,320,no,8.1
+BMW,22095.07,crossover,500,1.9,Petrol,yes,2006,320,no,14.7
+Mercedes-Benz,13972.27,hatchback,412,1.3,Diesel,yes,1989,Sprinter 212,no,8.6
+BMW,12148.59,crossover,500,1.0,Gas,yes,1993,320,no,12.5
+Audi,29081.02,sedan,338,1.9,Diesel,yes,2002,A4,no,10.1
+BMW,30874.66,crossover,414,2.7,Petrol,no,2020,X5,no,10.2
+Audi,15334.58,van,443,2.1,Gas,yes,2001,A4,no,10.2
+Audi,24433.23,hatchback,432,1.9,Petrol,yes,2006,Q7,no,5.9
+Mercedes-Benz,13945.86,hatchback,477,1.3,Petrol,yes,1999,Sprinter 212,no,8.4
+Mercedes-Benz,32923.15,SUV,369,2.0,Gas,yes,1994,Sprinter 212,no,13.2
+Toyota,27745.02,sedan,440,1.0,Petrol,yes,1994,Corolla,yes,13.3
+Mercedes-Benz,7133.85,SUV,395,1.6,Gas,yes,2009,Sprinter 212,no,10.6
+Honda,34489.69,SUV,316,2.1,Gas,yes,1994,Accord,no,7.6
+Ford,16389.96,hatchback,466,1.2,Gas,yes,2001,F-150,no,14.4
+Mercedes-Benz,7393.51,hatchback,473,1.8,Gas,yes,1990,Sprinter 212,no,12.0
+Ford,31360.22,van,379,1.0,Diesel,yes,2014,F-150,no,12.8
+Audi,15486.19,hatchback,500,1.1,Gas,yes,2005,Q7,no,9.2
+Audi,34423.38,sedan,291,2.4,Gas,no,2023,A6,no,13.8
+Mercedes-Benz,18292.44,hatchback,361,1.6,Gas,yes,2008,Sprinter 212,no,10.6
+Toyota,13739.59,hatchback,479,1.2,Diesel,yes,2008,Rav 4,no,6.5
+Toyota,9871.37,hatchback,500,1.9,Gas,yes,2017,Rav 4,no,13.0
+Mercedes-Benz,21166.78,sedan,480,2.3,Diesel,yes,2013,E 320,no,12.5
+Audi,17124.88,hatchback,410,1.1,Gas,yes,1995,A4,no,11.2
+Audi,29566.08,hatchback,397,2.3,Petrol,yes,1991,Q7,no,8.4
+Audi,27206.54,SUV,395,1.6,Diesel,yes,1993,A4,no,12.5
+Ford,28746.5,hatchback,393,1.7,Petrol,yes,2008,Focus,no,7.1
+Mercedes-Benz,21333.27,sedan,353,1.3,Gas,yes,2020,E 320,no,10.5
+Honda,31985.67,crossover,406,2.2,Gas,yes,2018,CR-V,no,6.3
+Mercedes-Benz,32940.27,sedan,397,1.5,Diesel,yes,2013,C 200,no,10.6
+Audi,12899.59,sedan,439,1.8,Gas,yes,2019,A4,no,11.7
+Toyota,16950.89,hatchback,441,2.0,Gas,yes,1994,Corolla,no,9.3
+BMW,3000.0,sedan,456,1.0,Petrol,yes,2015,X5,no,7.7
+Ford,27275.33,hatchback,418,1.5,Diesel,yes,2007,Explorer,no,9.0
+BMW,23110.9,crossover,417,1.1,Diesel,no,2024,320,no,9.5
+Audi,25610.62,sedan,435,1.3,Petrol,yes,2000,Q7,no,5.8
+Audi,12878.17,hatchback,477,1.8,Petrol,no,2014,A6,no,9.9
+Toyota,21665.98,hatchback,394,1.0,Gas,yes,2001,Rav 4,no,12.1
+BMW,23901.59,SUV,277,1.0,Gas,yes,2015,320,no,11.5
+Ford,30662.42,SUV,327,1.7,Diesel,yes,1996,Focus,no,10.7
+Ford,29321.96,crossover,344,2.0,Diesel,yes,1989,Explorer,no,5.6
+Mercedes-Benz,25397.65,sedan,442,1.4,Diesel,yes,1990,Sprinter 212,no,11.6
+Honda,27896.69,SUV,430,1.2,Diesel,yes,2019,CR-V,no,8.4
+Ford,3000.0,sedan,500,1.0,Gas,no,2005,Explorer,no,14.8
+Toyota,29076.41,hatchback,391,2.0,Diesel,yes,2014,Camry,no,5.6
+Toyota,19442.18,crossover,500,1.3,Gas,no,2013,Corolla,no,6.5
+Ford,3240.53,hatchback,483,1.2,Gas,yes,1997,Focus,no,11.1
+BMW,25304.95,crossover,405,2.2,Diesel,yes,2000,320,no,7.9
+Honda,15342.56,hatchback,500,1.7,Diesel,yes,2017,Civic,no,11.0
+Mercedes-Benz,18611.58,sedan,375,1.2,Gas,no,2003,E 320,no,5.3
+Mercedes-Benz,16564.34,SUV,482,1.4,Gas,yes,2002,Sprinter 212,yes,15.0
+Ford,33302.54,hatchback,281,1.6,Diesel,yes,1999,F-150,no,13.9
+Mercedes-Benz,30760.95,hatchback,409,1.8,Petrol,yes,2018,C 200,no,6.3
+Mercedes-Benz,36287.34,hatchback,359,1.6,Diesel,yes,2010,C 200,no,8.7
+Honda,24911.76,sedan,403,1.3,Diesel,yes,2009,CR-V,no,9.9
+Ford,32763.34,sedan,493,1.2,Petrol,yes,2016,F-150,no,12.0
+BMW,18347.33,sedan,500,1.3,Petrol,yes,1997,M3,no,12.2
+Ford,28087.07,van,359,1.9,Petrol,yes,2018,Explorer,no,7.9
+Toyota,10045.14,crossover,500,1.2,Gas,yes,2004,Corolla,no,6.4
+Ford,22704.7,crossover,341,1.0,Diesel,yes,1995,Explorer,no,12.5
+Audi,34051.51,hatchback,339,1.0,Petrol,yes,2003,A4,no,5.3
+Honda,17736.52,sedan,406,2.0,Gas,yes,2001,Civic,no,7.0
+BMW,40860.52,van,387,2.7,Petrol,no,2001,M3,no,12.0
+Mercedes-Benz,26570.86,sedan,353,2.1,Gas,yes,2020,E 320,no,5.6
+Ford,37949.49,SUV,354,2.1,Petrol,yes,2001,Focus,yes,12.8
+Audi,8304.95,sedan,500,1.4,Gas,yes,2022,A6,no,10.4
+Mercedes-Benz,21587.36,sedan,365,1.5,Diesel,yes,1994,E 320,no,10.4
+Audi,18149.47,sedan,446,1.0,Gas,yes,2017,Q7,no,6.6
+Mercedes-Benz,25587.33,sedan,491,1.8,Petrol,yes,2024,Sprinter 212,no,10.2
+Honda,24270.25,hatchback,498,1.6,Gas,yes,1993,Accord,no,7.6
+Toyota,13992.06,hatchback,500,1.0,Diesel,yes,1990,Rav 4,no,8.0
+Ford,12673.71,sedan,449,1.4,Gas,yes,1998,Focus,no,7.1
+Mercedes-Benz,16877.35,hatchback,444,1.2,Gas,yes,2007,C 200,yes,13.7
+Honda,20007.58,sedan,441,1.6,Gas,yes,2018,CR-V,no,6.3
+Ford,29520.08,crossover,402,1.5,Diesel,yes,2014,Explorer,yes,13.7
+Audi,28805.4,SUV,438,1.3,Petrol,yes,2022,A4,no,9.5
+Mercedes-Benz,39703.64,SUV,313,3.2,Petrol,yes,1992,E 320,no,11.9
+Audi,11646.33,crossover,492,1.0,Petrol,yes,2011,Q7,no,10.6
+Mercedes-Benz,23544.67,SUV,488,1.5,Diesel,yes,2024,E 320,no,12.6
+Toyota,21712.86,SUV,363,2.0,Gas,yes,2006,Corolla,no,12.8
+Mercedes-Benz,37917.61,crossover,351,1.7,Petrol,yes,2008,C 200,no,13.5
+Honda,23764.23,crossover,483,1.9,Petrol,yes,2009,Accord,yes,14.3
+Mercedes-Benz,22165.74,sedan,385,1.9,Gas,yes,2012,Sprinter 212,no,7.2
+BMW,17758.73,hatchback,421,1.1,Diesel,yes,2004,X5,no,5.2
+Mercedes-Benz,10868.51,SUV,441,1.5,Petrol,yes,2008,E 320,no,8.3
+Honda,20586.61,sedan,364,1.7,Petrol,yes,1996,CR-V,no,8.2
+Toyota,33105.11,hatchback,388,1.1,Petrol,yes,2022,Camry,no,14.7
+Ford,26129.66,crossover,382,1.3,Gas,yes,2001,F-150,no,11.9
+Toyota,13060.87,hatchback,500,1.2,Diesel,yes,2024,Camry,no,7.2
+Honda,11399.38,sedan,452,1.0,Gas,no,2010,CR-V,yes,7.7
+BMW,31776.25,crossover,419,1.2,Diesel,yes,2012,320,no,5.1
+BMW,23922.2,van,408,1.3,Gas,yes,2009,M3,no,5.4
+Ford,22639.39,van,422,1.2,Diesel,yes,2002,Focus,no,13.1
+Ford,14204.49,crossover,408,1.1,Petrol,yes,2002,Explorer,no,6.8
+Audi,17001.96,hatchback,432,1.7,Petrol,yes,2015,A4,no,13.7
+Toyota,18520.67,sedan,443,1.0,Diesel,yes,2008,Corolla,no,9.0
+Ford,25460.08,hatchback,422,1.6,Petrol,yes,1995,Explorer,no,5.9
+Mercedes-Benz,33162.9,crossover,359,2.1,Diesel,yes,2021,E 320,no,9.1
+Ford,23094.06,crossover,382,1.7,Diesel,yes,1992,F-150,no,12.2
+Audi,16131.57,hatchback,436,1.6,Diesel,yes,1999,A4,no,11.0
+BMW,18646.91,hatchback,421,1.7,Diesel,no,2009,X5,no,8.6
+Audi,32739.79,SUV,398,1.4,Diesel,yes,2011,Q7,no,5.5
+Toyota,12378.76,SUV,500,2.2,Diesel,no,1996,Rav 4,no,7.1
+Ford,25178.33,crossover,500,1.6,Petrol,yes,2018,Explorer,no,9.7
+Honda,11875.87,sedan,497,1.2,Gas,yes,1993,Civic,no,8.4
+Audi,18055.33,hatchback,481,1.0,Gas,yes,1996,Q7,no,14.1
+Ford,19385.14,hatchback,352,2.1,Petrol,no,2021,Focus,no,9.7
+Ford,32453.93,van,413,1.6,Petrol,yes,1991,Focus,no,9.1
+Mercedes-Benz,23938.21,van,406,1.2,Gas,yes,2023,E 320,yes,11.2
+Mercedes-Benz,29013.62,van,433,1.7,Diesel,yes,2018,E 320,no,10.3
+Ford,18854.84,hatchback,349,1.5,Petrol,no,2011,Explorer,no,13.4
+Audi,28630.87,SUV,376,2.6,Gas,no,2016,Q7,no,11.5
+BMW,22790.9,SUV,440,1.5,Gas,yes,2022,M3,no,9.0
+Mercedes-Benz,15366.33,hatchback,341,1.3,Diesel,yes,1989,C 200,no,12.2
+Honda,20539.03,hatchback,418,1.1,Gas,yes,1997,Civic,no,8.9
+Mercedes-Benz,33061.78,hatchback,326,1.5,Petrol,yes,2004,Sprinter 212,no,10.9
+BMW,21898.17,crossover,454,3.0,Petrol,yes,2022,320,no,15.0
+Honda,23089.88,sedan,378,1.4,Gas,yes,2000,Civic,no,9.6
+Toyota,23552.35,hatchback,273,1.4,Diesel,yes,2018,Rav 4,no,14.2
+Ford,18943.82,sedan,435,1.5,Petrol,yes,2024,Explorer,no,8.3
+Audi,35415.35,hatchback,321,2.1,Diesel,yes,2019,Q7,yes,5.2
+Audi,19213.71,hatchback,345,2.3,Diesel,yes,1989,A4,yes,5.6
+Mercedes-Benz,3000.0,sedan,482,1.6,Gas,yes,2011,C 200,no,7.3
+BMW,17101.82,SUV,469,1.1,Petrol,yes,2002,X5,no,8.8
+BMW,10180.25,crossover,404,1.0,Gas,yes,2018,320,no,7.1
+Toyota,35899.07,sedan,320,2.4,Diesel,no,2017,Rav 4,no,8.5
+Ford,24555.75,sedan,449,2.0,Gas,yes,2023,Explorer,no,12.3
+Toyota,37158.3,crossover,411,2.0,Petrol,yes,2020,Rav 4,no,14.5
+Honda,9881.78,SUV,500,1.4,Gas,yes,2000,Accord,no,11.1
+Audi,14611.18,sedan,417,2.0,Petrol,yes,2006,A4,no,10.8
+BMW,20839.65,hatchback,446,1.9,Gas,yes,1997,320,yes,14.6
+Toyota,16093.35,crossover,500,1.3,Gas,yes,2014,Rav 4,no,5.5
+Honda,8782.25,hatchback,500,1.0,Diesel,yes,2014,Civic,no,10.0
+BMW,27042.48,SUV,394,1.0,Diesel,yes,2000,320,no,12.2
+Ford,38564.7,sedan,383,2.1,Diesel,yes,1998,Explorer,no,14.1
+Ford,4046.8,crossover,500,1.1,Gas,yes,2015,Focus,no,12.0
+Toyota,28437.65,hatchback,357,1.2,Petrol,yes,2012,Rav 4,no,5.1
+Audi,33960.96,sedan,351,1.8,Petrol,yes,2013,Q7,no,13.1
+Toyota,26429.63,sedan,437,1.3,Petrol,yes,2018,Corolla,yes,8.0
+Audi,14375.22,sedan,500,1.0,Gas,yes,2015,A4,no,9.3
+Audi,28527.63,sedan,432,2.2,Gas,yes,1999,Q7,no,7.9
+Audi,22629.21,crossover,435,1.9,Gas,yes,1993,A6,no,5.7
+Honda,30277.93,hatchback,341,1.9,Diesel,yes,2004,CR-V,no,10.1
+Toyota,32659.52,SUV,463,1.4,Petrol,yes,2019,Corolla,no,11.3
+Toyota,20550.14,sedan,351,1.6,Petrol,yes,2021,Corolla,no,11.3
+BMW,16333.68,crossover,500,1.7,Diesel,yes,1991,M3,yes,8.2
+Audi,28028.06,crossover,436,1.5,Diesel,yes,2007,A4,no,13.0
+Mercedes-Benz,30379.47,sedan,344,1.0,Petrol,yes,2006,C 200,no,12.8
+BMW,3694.45,sedan,500,1.2,Diesel,yes,2009,M3,no,5.4
+Mercedes-Benz,22267.27,crossover,407,2.4,Petrol,yes,2023,C 200,no,14.8
+Honda,28658.87,crossover,334,2.1,Petrol,yes,2005,Civic,yes,13.3
+Honda,31891.2,SUV,302,1.8,Gas,yes,1994,CR-V,no,10.8
+Toyota,17006.33,sedan,392,1.2,Diesel,yes,2011,Camry,no,14.3
+Ford,35102.58,SUV,373,1.9,Diesel,yes,2017,F-150,no,6.8
+Mercedes-Benz,8071.73,SUV,436,2.2,Gas,yes,2014,E 320,no,5.8
+Honda,12354.32,hatchback,463,1.4,Gas,yes,1990,Civic,no,9.8
+Ford,21249.0,crossover,483,1.1,Diesel,yes,1991,Explorer,no,14.8
+Ford,3000.0,sedan,457,1.0,Gas,yes,2018,F-150,no,9.9
+BMW,19175.83,SUV,424,1.0,Diesel,yes,2007,X5,no,10.4
+Ford,20666.14,van,490,1.0,Diesel,yes,2005,Focus,no,14.6
+Honda,11200.87,van,500,1.4,Gas,yes,2011,Civic,no,7.2
+Ford,17319.54,van,500,1.0,Petrol,yes,2003,F-150,yes,8.4
+Toyota,18389.87,sedan,471,1.7,Gas,yes,1990,Corolla,no,11.2
+Audi,33616.68,hatchback,338,1.0,Diesel,yes,1992,Q7,no,6.4
+Toyota,31448.58,sedan,285,2.2,Gas,yes,2019,Corolla,no,9.2
+Mercedes-Benz,26807.32,sedan,491,1.0,Diesel,yes,1993,Sprinter 212,no,5.3
+Audi,28836.77,crossover,486,1.6,Petrol,yes,2012,A6,no,12.0
+Ford,28860.94,crossover,332,1.6,Petrol,yes,2011,Focus,no,7.3
+Mercedes-Benz,18971.04,hatchback,418,2.0,Gas,yes,2016,C 200,yes,8.2
+Audi,22663.95,hatchback,447,2.1,Gas,yes,2014,Q7,yes,6.0
+Toyota,34666.35,hatchback,413,1.8,Diesel,yes,2022,Camry,no,8.7
+Mercedes-Benz,10694.23,hatchback,461,1.0,Petrol,yes,1995,Sprinter 212,no,5.3
+Ford,19618.82,crossover,500,2.9,Gas,yes,2013,Focus,no,9.2
+Toyota,27735.41,hatchback,407,1.4,Diesel,yes,2005,Corolla,no,5.9
+Honda,3000.0,crossover,496,1.2,Diesel,yes,1990,CR-V,no,7.3
+Toyota,18535.44,SUV,477,1.0,Gas,yes,2005,Rav 4,no,11.2
+Audi,20853.26,hatchback,459,1.0,Petrol,yes,2016,A4,no,11.9
+Audi,35480.25,van,393,2.1,Petrol,yes,2005,A4,no,14.8
+Toyota,16640.41,van,500,1.0,Gas,yes,2019,Camry,no,10.9
+Mercedes-Benz,20953.76,crossover,409,2.0,Petrol,yes,2019,E 320,no,6.1
+Honda,26032.45,crossover,409,1.3,Gas,no,1999,CR-V,no,12.0
+Toyota,17789.86,crossover,500,1.1,Diesel,yes,2011,Rav 4,no,8.0
+Honda,14669.3,van,472,1.0,Gas,yes,2020,Accord,no,9.8
+Mercedes-Benz,24790.23,sedan,446,1.0,Gas,yes,2024,C 200,no,5.3
+Honda,13999.92,SUV,493,1.2,Diesel,yes,1998,CR-V,no,6.8
+BMW,16944.2,crossover,500,1.4,Diesel,no,2019,M3,no,11.5
+Audi,43595.2,sedan,345,2.9,Petrol,yes,1992,A4,no,7.3
+Honda,23086.6,hatchback,426,2.6,Diesel,yes,2019,Civic,no,6.1
+Audi,30365.74,hatchback,461,2.1,Petrol,yes,2001,Q7,no,11.8
+Honda,23040.01,hatchback,457,1.6,Gas,yes,2023,Civic,no,7.5
+Audi,33700.09,sedan,424,1.9,Petrol,yes,2016,A6,no,7.8
+BMW,19697.82,sedan,368,1.5,Diesel,yes,2017,X5,no,10.2
+Ford,23434.52,crossover,368,1.5,Gas,yes,1989,Focus,no,13.8
+Mercedes-Benz,29335.76,hatchback,358,1.3,Petrol,yes,1998,Sprinter 212,yes,7.1
+Honda,15786.71,van,450,1.3,Diesel,yes,2008,CR-V,yes,14.3
+BMW,11955.53,sedan,500,1.9,Diesel,yes,2002,320,no,15.0
+Mercedes-Benz,3561.48,sedan,472,1.0,Diesel,yes,1991,Sprinter 212,no,9.9
+BMW,15621.4,sedan,488,1.9,Gas,no,2022,320,no,10.1
+Audi,31191.66,SUV,300,1.9,Petrol,yes,1991,A4,no,5.1
+Ford,13014.82,hatchback,440,1.3,Gas,yes,2006,F-150,no,5.9
+Audi,19952.82,crossover,438,1.5,Diesel,yes,1996,A6,no,8.0
+Mercedes-Benz,33708.67,hatchback,380,1.4,Petrol,no,2011,C 200,no,9.9
+Honda,28503.29,hatchback,499,2.5,Petrol,yes,2022,Accord,no,13.2
+Audi,6007.18,sedan,500,1.4,Petrol,no,1994,A6,no,12.6
+Toyota,17891.98,crossover,468,2.0,Diesel,yes,2003,Rav 4,no,13.7
+BMW,15472.29,crossover,497,2.4,Gas,no,1995,320,no,14.7
+BMW,27309.65,hatchback,411,1.6,Diesel,yes,2022,M3,no,7.0
+Audi,6933.38,crossover,397,1.0,Petrol,yes,1999,A4,no,8.3
+Audi,34391.93,crossover,271,2.0,Diesel,yes,1994,A4,no,5.4
+Toyota,19138.53,hatchback,456,1.0,Petrol,yes,2009,Corolla,no,9.3
+Mercedes-Benz,28294.33,sedan,443,1.2,Gas,yes,2002,C 200,no,13.2
+BMW,8313.45,sedan,463,1.0,Gas,no,1993,M3,no,8.5
+Honda,29389.45,sedan,321,1.2,Petrol,yes,2019,CR-V,no,15.0
+Honda,6034.01,van,474,1.5,Petrol,yes,2001,Accord,no,11.9
+Ford,26569.79,hatchback,447,1.0,Gas,yes,1992,F-150,yes,13.5
+BMW,25800.84,crossover,432,2.1,Diesel,yes,2005,320,no,14.6
+Honda,34026.23,crossover,336,1.7,Petrol,yes,2013,CR-V,no,8.4
+Toyota,21243.29,crossover,375,1.8,Diesel,yes,2022,Camry,no,7.1
+BMW,28979.35,SUV,400,1.6,Petrol,yes,2017,X5,no,5.7
+Audi,5478.07,sedan,500,2.2,Gas,yes,2009,Q7,no,5.3
+BMW,21917.43,hatchback,453,1.0,Petrol,yes,2001,X5,no,5.3
+Mercedes-Benz,21071.08,hatchback,475,1.2,Diesel,yes,2012,Sprinter 212,no,11.0
+BMW,12382.42,hatchback,465,1.5,Gas,yes,1992,M3,no,12.2
+Audi,20305.15,hatchback,334,1.8,Gas,yes,2010,A6,no,12.3
+Ford,24237.63,van,388,1.5,Diesel,yes,2005,Explorer,yes,10.2
+Honda,39451.85,SUV,271,2.4,Petrol,yes,2005,Civic,no,7.8
+BMW,15429.47,hatchback,500,1.0,Gas,yes,1992,X5,no,12.7
+Honda,28211.77,crossover,403,1.0,Diesel,yes,1990,CR-V,yes,5.8
+Honda,18642.0,crossover,457,1.8,Gas,yes,2022,Civic,no,14.0
+BMW,29050.57,hatchback,416,2.4,Petrol,yes,2020,320,yes,11.4
+Audi,16165.81,crossover,369,1.3,Diesel,yes,2001,A4,no,8.6
+Honda,22245.6,sedan,433,1.0,Gas,yes,2004,CR-V,no,8.5
+Honda,9904.96,crossover,500,1.3,Gas,yes,1999,CR-V,no,10.2
+BMW,10295.74,sedan,500,1.3,Diesel,no,2007,320,no,12.1
+Honda,26373.18,crossover,432,1.8,Diesel,yes,2024,Civic,no,8.6
+Ford,29600.95,van,443,1.0,Gas,yes,1999,Focus,no,9.7
+Honda,13453.93,crossover,500,1.0,Gas,yes,2011,Accord,no,11.6
+Mercedes-Benz,29316.37,hatchback,337,1.1,Diesel,yes,2007,E 320,no,13.6
+Audi,28138.22,van,468,1.0,Gas,yes,2014,A4,no,11.0
+Honda,39681.79,crossover,366,1.9,Gas,yes,1999,Civic,no,12.0
+Audi,15862.36,sedan,406,1.0,Gas,yes,1992,A6,yes,11.5
+Audi,25604.76,hatchback,407,1.0,Petrol,no,2018,A6,no,13.1
+Toyota,34141.17,hatchback,277,1.6,Petrol,yes,1994,Camry,no,7.7
+Ford,33950.58,sedan,386,2.0,Petrol,yes,2018,Explorer,no,12.7
+Mercedes-Benz,29897.85,crossover,383,1.3,Gas,yes,2006,C 200,no,12.3
+Ford,10291.03,hatchback,499,1.0,Gas,no,1991,F-150,no,10.2
+Ford,18850.6,crossover,500,2.4,Petrol,yes,1996,Focus,no,12.5
+Ford,21426.01,van,469,1.0,Diesel,yes,2021,Focus,yes,8.9
+BMW,28035.38,sedan,449,2.7,Petrol,yes,1990,M3,no,12.2
+Toyota,3000.0,crossover,500,2.0,Petrol,yes,2000,Camry,no,9.7
+Toyota,20946.88,hatchback,408,1.0,Diesel,yes,1998,Rav 4,no,7.4
+BMW,28906.2,sedan,404,1.9,Diesel,yes,1990,320,yes,12.4
+BMW,20762.16,sedan,415,1.1,Diesel,yes,2002,M3,no,14.8
+BMW,23975.26,SUV,334,2.4,Diesel,yes,1993,X5,no,11.7
+Toyota,18303.13,crossover,500,2.2,Gas,yes,1990,Corolla,no,13.4
+Ford,17628.56,sedan,481,1.5,Diesel,yes,2015,Explorer,no,14.2
+Toyota,32445.78,sedan,307,3.1,Gas,yes,2011,Camry,no,15.0
+Honda,29751.18,sedan,457,1.6,Petrol,yes,1992,Accord,no,9.3
+Audi,18661.16,sedan,461,2.0,Petrol,yes,2013,Q7,no,5.5
+Audi,33686.57,crossover,432,1.9,Diesel,yes,2019,A6,no,8.1
+Ford,14142.7,sedan,451,1.3,Gas,yes,2010,Focus,no,13.8
+BMW,21876.65,sedan,430,2.5,Diesel,yes,2001,M3,no,9.3
+Toyota,18759.73,sedan,437,1.1,Gas,yes,2008,Camry,no,9.8
+Mercedes-Benz,23658.88,sedan,402,1.8,Gas,yes,2002,E 320,no,11.0
+Toyota,14673.35,hatchback,496,1.0,Petrol,yes,2005,Corolla,no,12.2
+Toyota,53407.49,hatchback,286,2.0,Petrol,yes,2008,Camry,no,12.4
+Toyota,16799.41,hatchback,385,1.4,Petrol,no,2022,Rav 4,no,5.7
+Audi,23099.04,crossover,349,1.0,Diesel,yes,1990,A6,no,9.3
+Mercedes-Benz,15057.75,hatchback,366,2.2,Gas,no,2018,E 320,no,7.9
+Audi,24150.51,van,382,2.5,Petrol,yes,1991,Q7,no,12.0
+Toyota,21533.7,SUV,438,1.3,Diesel,yes,2018,Camry,yes,7.8
+Ford,21034.89,hatchback,436,1.5,Gas,yes,2001,Focus,no,10.3
+Toyota,28255.26,hatchback,429,1.1,Petrol,yes,1989,Camry,no,12.6
+BMW,30544.72,van,350,1.1,Diesel,no,2024,M3,no,6.6
+Mercedes-Benz,36957.3,sedan,353,1.1,Petrol,yes,2009,E 320,no,10.7
+Honda,35572.05,sedan,397,1.9,Diesel,no,2015,CR-V,no,14.4
+Ford,37394.56,hatchback,344,3.1,Petrol,yes,2022,Explorer,no,5.9
+Audi,4908.3,crossover,500,1.0,Diesel,yes,2014,Q7,no,6.6
+BMW,31818.81,hatchback,410,1.1,Petrol,yes,1993,M3,no,13.5
+Honda,29340.5,hatchback,416,1.9,Petrol,yes,2014,Accord,yes,10.5
+Honda,14477.22,sedan,465,2.3,Gas,yes,2001,Accord,no,10.3
+Toyota,14552.07,sedan,485,1.0,Gas,yes,2004,Corolla,no,9.1
+Toyota,10091.25,hatchback,422,1.7,Petrol,yes,1993,Rav 4,no,12.4
+BMW,29955.59,crossover,500,1.5,Petrol,yes,1995,320,no,5.2
+Toyota,18671.39,crossover,445,1.4,Petrol,yes,2019,Camry,no,10.5
+Toyota,14982.36,van,415,1.4,Diesel,yes,2005,Camry,no,13.6
+Honda,20471.35,SUV,434,1.6,Diesel,yes,1999,Civic,no,14.8
+Honda,26131.34,sedan,409,1.8,Diesel,yes,2002,Civic,no,14.0
+Toyota,19030.48,sedan,398,2.1,Gas,yes,1998,Camry,no,12.0
+Audi,28599.75,sedan,407,1.7,Diesel,yes,2023,A4,no,9.5
+Toyota,15988.84,sedan,404,2.4,Diesel,no,2002,Corolla,no,7.0
+Honda,33884.2,crossover,382,2.2,Diesel,yes,2016,CR-V,no,9.0
+BMW,26384.99,sedan,410,2.2,Gas,yes,2001,X5,no,12.3
+Audi,24206.51,SUV,467,2.1,Diesel,yes,2024,A6,no,12.2
+Mercedes-Benz,19205.68,hatchback,376,2.2,Diesel,yes,1994,C 200,no,5.0
+Honda,21875.08,sedan,451,1.6,Diesel,yes,1997,CR-V,no,7.8
+Ford,22091.49,hatchback,499,1.8,Petrol,no,1999,F-150,no,11.5
+Mercedes-Benz,30383.19,crossover,355,1.6,Diesel,yes,2022,E 320,no,13.7
+Toyota,20893.18,hatchback,439,2.2,Gas,yes,2008,Corolla,no,10.1
+Audi,18750.42,van,478,1.0,Diesel,yes,2003,A6,no,6.9
+Ford,36214.01,van,375,1.7,Diesel,yes,2021,Explorer,no,13.1
+Ford,7795.18,sedan,472,1.0,Petrol,yes,2013,Explorer,no,8.8
+Audi,36556.62,hatchback,335,1.5,Petrol,yes,1994,A6,no,9.8
+Ford,18257.02,sedan,452,1.5,Petrol,yes,2024,Explorer,no,5.8
+Mercedes-Benz,22720.49,sedan,494,2.4,Gas,yes,2001,Sprinter 212,no,13.4
+Ford,18244.3,van,368,1.0,Petrol,yes,2002,Explorer,no,6.9
+Audi,42986.98,hatchback,325,1.7,Petrol,yes,1999,A6,no,5.1
+BMW,36665.54,crossover,402,2.2,Petrol,yes,2005,X5,no,10.4
+Audi,7434.52,sedan,500,1.1,Gas,yes,1999,Q7,no,11.0
+Honda,32398.95,hatchback,490,1.4,Diesel,yes,1996,CR-V,no,6.6
+BMW,31469.03,sedan,348,2.3,Gas,yes,2012,320,no,11.6
+Honda,27179.74,hatchback,429,3.3,Gas,no,1989,Accord,no,8.6
+Honda,31245.67,van,470,1.8,Diesel,yes,2010,CR-V,no,10.9
+Audi,37764.56,van,342,1.7,Petrol,yes,2006,A6,yes,6.2
+BMW,21586.22,crossover,439,1.0,Petrol,yes,1993,X5,yes,6.2
+Audi,15829.41,hatchback,476,1.1,Petrol,yes,2001,A4,no,5.2
+Mercedes-Benz,24446.0,hatchback,405,1.9,Petrol,yes,2013,C 200,no,11.2
+Audi,21903.96,sedan,453,1.9,Diesel,yes,1989,Q7,no,9.4
+Audi,15923.57,sedan,412,2.3,Gas,yes,1991,Q7,no,6.1
+Mercedes-Benz,16313.52,sedan,493,1.4,Petrol,yes,2000,C 200,no,14.6
+Audi,14515.12,SUV,411,1.3,Diesel,yes,1991,A4,no,7.3
+Audi,18350.65,hatchback,500,1.6,Diesel,yes,1993,Q7,no,11.3
+Ford,31859.1,sedan,380,1.9,Gas,yes,2015,Explorer,no,8.7
+Toyota,20422.32,sedan,445,1.3,Gas,yes,2015,Rav 4,no,10.3
+Audi,37389.5,crossover,380,2.8,Petrol,yes,2005,Q7,yes,5.2
+BMW,38649.21,hatchback,358,1.6,Diesel,yes,2010,M3,no,8.5
+Toyota,13310.8,hatchback,437,1.5,Petrol,yes,1990,Corolla,no,13.1
+Mercedes-Benz,13213.08,crossover,449,2.0,Gas,yes,2008,Sprinter 212,no,11.4
+Audi,35351.66,crossover,387,2.1,Gas,yes,1990,Q7,yes,8.1
+Ford,32942.39,sedan,446,2.2,Petrol,yes,1989,Explorer,no,13.1
+Mercedes-Benz,9626.0,hatchback,500,1.0,Diesel,yes,2020,Sprinter 212,no,6.4
+Toyota,31518.61,crossover,400,2.5,Petrol,yes,1993,Corolla,yes,13.7
+Ford,17851.32,SUV,491,1.2,Gas,yes,1994,Explorer,yes,11.5
+Mercedes-Benz,48007.84,hatchback,346,2.1,Petrol,yes,2006,Sprinter 212,no,13.5
+Mercedes-Benz,23668.18,crossover,426,2.6,Petrol,no,2002,C 200,yes,5.5
+Ford,18151.36,SUV,500,1.1,Diesel,yes,2004,F-150,no,7.5
+Mercedes-Benz,25738.78,sedan,331,1.6,Diesel,yes,2021,C 200,no,9.1
+Audi,13675.48,SUV,447,1.5,Diesel,yes,2021,A6,no,13.8
+Toyota,20145.79,crossover,384,1.4,Diesel,yes,2008,Camry,no,12.1
+Toyota,16848.06,hatchback,500,1.4,Petrol,yes,2022,Rav 4,yes,5.8
+Toyota,17151.72,van,395,1.7,Gas,yes,1995,Corolla,no,8.0
+Mercedes-Benz,17745.31,van,406,1.0,Gas,yes,1989,E 320,no,14.0
+Mercedes-Benz,30602.83,hatchback,347,2.5,Diesel,yes,1994,Sprinter 212,yes,8.2
+Audi,15859.41,crossover,435,1.8,Gas,yes,2002,Q7,yes,15.0
+Ford,23743.7,crossover,438,1.0,Gas,yes,2023,Explorer,no,5.6
+Honda,35433.5,van,318,1.3,Diesel,yes,2009,Civic,no,10.8
+Audi,14826.69,hatchback,352,1.0,Diesel,no,2022,Q7,no,8.0
+BMW,11514.85,sedan,500,1.9,Diesel,yes,2018,X5,no,7.8
+Ford,30879.59,SUV,406,2.2,Petrol,no,1992,Explorer,no,6.3
+BMW,28526.11,sedan,381,1.3,Diesel,yes,2020,M3,no,12.0
+BMW,23344.67,sedan,464,1.0,Gas,yes,2015,320,no,8.5
+Honda,27770.95,sedan,407,2.4,Diesel,yes,2007,CR-V,no,12.7
+Audi,13404.37,sedan,444,1.0,Gas,yes,2013,Q7,no,13.9
+Mercedes-Benz,25545.74,crossover,416,1.9,Diesel,no,2020,E 320,no,12.7
+Ford,3000.0,sedan,500,1.2,Petrol,yes,2018,Explorer,no,11.2
+Audi,12370.38,crossover,489,1.2,Diesel,yes,2010,A6,no,10.5
+Toyota,30622.87,hatchback,412,2.0,Petrol,yes,2015,Camry,no,10.4
+Mercedes-Benz,11617.16,crossover,500,1.4,Diesel,yes,1999,E 320,yes,10.9
+Audi,23642.91,crossover,353,2.4,Petrol,yes,2005,A6,no,9.4
+Audi,20909.09,sedan,440,1.1,Gas,yes,2018,A4,no,6.3
+Audi,24414.41,crossover,500,1.4,Gas,yes,2006,Q7,no,7.2
+Ford,28874.06,hatchback,467,1.2,Diesel,yes,2012,Focus,no,6.4
+Mercedes-Benz,23824.44,sedan,344,1.3,Diesel,yes,1996,E 320,no,7.5
+Honda,17670.15,crossover,429,1.0,Diesel,yes,2023,Accord,yes,8.4
+BMW,16058.17,hatchback,469,1.4,Petrol,yes,1994,M3,no,6.3
+Honda,13668.34,crossover,447,2.9,Diesel,no,2022,Civic,no,13.8
+Honda,39809.45,van,380,2.2,Petrol,yes,1994,Civic,no,11.6
+Toyota,15395.41,hatchback,386,2.0,Gas,yes,2023,Corolla,no,8.7
+BMW,15201.86,hatchback,417,1.0,Diesel,yes,2005,X5,no,6.3
+Mercedes-Benz,21086.49,hatchback,489,1.0,Diesel,yes,2024,C 200,no,10.2
+Toyota,39303.9,sedan,408,1.2,Petrol,yes,2008,Rav 4,no,14.2
+Honda,26907.53,hatchback,415,2.2,Gas,yes,2023,CR-V,no,6.4
+Toyota,29202.24,hatchback,386,1.9,Diesel,yes,1993,Camry,no,14.1
+Mercedes-Benz,21775.91,hatchback,413,2.4,Petrol,yes,2020,C 200,no,13.3
+Honda,35960.94,crossover,269,1.2,Petrol,yes,2003,Civic,no,8.7
+Ford,39323.37,van,362,1.0,Petrol,yes,1994,Explorer,no,13.9
+Ford,33260.8,crossover,438,1.7,Diesel,yes,1991,Focus,yes,5.9
+Honda,33957.53,sedan,395,1.9,Petrol,yes,2017,CR-V,no,11.9
+Honda,30181.84,van,357,2.0,Petrol,yes,2023,Civic,no,14.1
+Toyota,26133.2,crossover,438,1.0,Diesel,yes,1989,Camry,no,7.8
+Ford,14208.52,SUV,500,1.5,Gas,yes,2022,F-150,no,10.6
+BMW,29719.25,van,378,1.2,Gas,yes,2000,M3,no,6.1
+Honda,12535.5,hatchback,428,1.0,Petrol,yes,1994,Civic,no,8.6
+Audi,35142.24,hatchback,338,2.7,Petrol,yes,1993,Q7,no,11.2
+Honda,13551.4,sedan,355,1.5,Diesel,no,2001,CR-V,no,7.1
+Honda,9200.55,crossover,391,1.0,Gas,yes,2016,CR-V,no,9.9
+Toyota,16442.29,sedan,473,1.5,Diesel,yes,2005,Rav 4,no,12.4
+BMW,30455.31,sedan,367,1.5,Gas,yes,2014,M3,no,5.7
+Honda,27727.54,crossover,344,1.1,Gas,yes,1994,Civic,no,7.3
+Honda,30087.05,van,358,2.1,Petrol,yes,1993,Accord,no,6.9
+Audi,34989.12,crossover,332,1.9,Diesel,yes,2002,Q7,no,12.1
+Toyota,4933.73,hatchback,500,1.0,Gas,yes,2012,Camry,no,9.3
+Ford,36340.87,hatchback,313,1.7,Petrol,yes,2015,Explorer,no,14.8
+Mercedes-Benz,32554.66,hatchback,387,1.2,Gas,yes,2005,Sprinter 212,no,9.7
+BMW,24466.64,sedan,489,1.5,Petrol,yes,1990,320,yes,7.6
+Mercedes-Benz,21424.88,SUV,497,1.8,Petrol,yes,2014,E 320,no,12.6
+Mercedes-Benz,3000.0,SUV,492,1.6,Gas,yes,2014,Sprinter 212,no,14.3
+Ford,17362.04,crossover,376,1.1,Gas,yes,1991,F-150,no,6.0
+Ford,12593.72,SUV,471,1.5,Petrol,yes,1990,Explorer,no,7.5
+Ford,26690.85,crossover,441,1.8,Petrol,yes,2008,Focus,no,7.0
+Toyota,34149.58,sedan,371,2.6,Petrol,yes,1989,Camry,no,10.2
+Toyota,37626.76,hatchback,408,1.5,Petrol,yes,2007,Camry,no,7.2
+Toyota,29098.59,crossover,328,1.5,Diesel,yes,2001,Corolla,no,12.1
+Ford,27470.4,sedan,347,1.0,Petrol,yes,2011,F-150,no,14.7
+Mercedes-Benz,33567.77,SUV,439,2.3,Diesel,no,2004,Sprinter 212,no,13.9
+Audi,28636.57,hatchback,365,2.5,Diesel,yes,1999,A6,no,15.0
+Ford,5827.66,sedan,500,1.4,Diesel,yes,1994,Focus,no,11.3
+BMW,11166.09,crossover,500,1.0,Gas,yes,2015,X5,no,8.3
+Toyota,3399.33,crossover,500,1.1,Gas,no,1993,Corolla,no,8.8
+Ford,29765.11,sedan,383,1.0,Diesel,yes,1993,F-150,no,11.3
+Audi,20502.93,hatchback,371,1.6,Gas,yes,1993,A6,no,12.7
+Toyota,21396.49,sedan,444,2.4,Petrol,yes,2023,Camry,no,9.9
+Audi,22771.37,hatchback,491,1.6,Diesel,yes,2004,A6,no,13.4
+Ford,17313.54,sedan,416,1.2,Petrol,yes,1996,Explorer,no,11.5
+Toyota,27440.35,SUV,443,2.4,Diesel,yes,2024,Rav 4,no,9.3
+Toyota,29747.47,SUV,464,1.7,Diesel,yes,2016,Rav 4,no,14.3
+Mercedes-Benz,28797.79,hatchback,340,2.0,Petrol,yes,1992,E 320,no,14.6
+Ford,12330.41,crossover,454,1.1,Gas,yes,2020,F-150,no,12.8
+BMW,33783.38,sedan,403,1.6,Petrol,yes,1998,X5,no,7.7
+Audi,20219.0,SUV,478,1.7,Gas,yes,2012,A4,yes,10.6
+Toyota,24191.28,hatchback,421,1.4,Diesel,yes,2012,Rav 4,no,6.6
+Audi,22984.95,hatchback,311,1.8,Gas,yes,2004,A4,no,10.2
+Mercedes-Benz,17798.72,crossover,453,2.0,Diesel,yes,2021,C 200,no,6.5
+Honda,40485.28,van,371,1.0,Petrol,yes,2012,CR-V,no,6.5
+Mercedes-Benz,27610.21,hatchback,331,1.7,Petrol,yes,2022,C 200,no,12.5
+Ford,19814.51,sedan,490,1.0,Petrol,yes,2022,Focus,no,14.2
+Audi,41645.38,sedan,310,2.3,Diesel,yes,1999,Q7,no,7.4
+BMW,45621.88,SUV,317,2.1,Petrol,yes,2006,M3,no,5.4
+Ford,29233.8,hatchback,365,1.9,Diesel,yes,2008,Focus,no,11.5
+Honda,17016.83,crossover,487,1.3,Gas,yes,1990,Accord,no,8.2
+Audi,7863.77,hatchback,465,1.4,Diesel,no,2017,Q7,no,8.1
+Audi,29266.27,crossover,347,3.4,Petrol,yes,2019,A4,no,9.8
+Honda,20885.85,sedan,454,1.7,Diesel,yes,1992,Accord,no,6.9
+Ford,20090.07,hatchback,415,2.1,Petrol,yes,1999,Explorer,no,14.8
+Toyota,3263.92,sedan,500,1.5,Petrol,yes,1997,Rav 4,no,5.8
+Toyota,31925.93,sedan,325,1.7,Diesel,yes,1998,Rav 4,no,10.1
+BMW,16694.37,sedan,429,1.3,Petrol,yes,2016,M3,no,11.4
+BMW,33524.51,hatchback,341,2.2,Gas,yes,1997,M3,no,11.3
+Ford,31834.08,SUV,418,1.7,Gas,yes,2010,F-150,no,11.8
+Honda,28974.59,crossover,374,2.1,Gas,yes,1993,Accord,yes,7.8
+BMW,17426.22,hatchback,439,2.4,Gas,yes,1994,M3,no,11.4
+Honda,19438.54,sedan,499,1.3,Gas,yes,2019,Civic,no,9.8
+Honda,31533.67,hatchback,421,1.2,Diesel,yes,2020,Accord,no,8.3
+Toyota,3344.95,hatchback,457,1.0,Gas,yes,2005,Camry,no,14.5
+Toyota,27837.88,sedan,444,2.3,Petrol,yes,2008,Camry,no,13.7
+Audi,17125.25,hatchback,444,1.0,Petrol,yes,2007,A4,no,14.3
+BMW,17921.11,hatchback,450,1.4,Diesel,yes,2005,320,yes,8.9
+Mercedes-Benz,32878.59,sedan,358,1.7,Petrol,no,1998,Sprinter 212,no,9.9
+Honda,15742.65,van,500,1.7,Diesel,yes,2011,Accord,no,12.2
+Audi,28166.4,hatchback,409,2.3,Petrol,yes,1995,A4,no,14.0
+Audi,5943.25,hatchback,500,1.3,Diesel,yes,2000,A6,no,13.7
+Mercedes-Benz,14255.03,SUV,500,1.4,Gas,yes,1996,E 320,no,5.3
+Mercedes-Benz,46893.03,sedan,404,1.4,Petrol,no,2018,Sprinter 212,no,9.8
+BMW,19253.42,crossover,488,1.7,Diesel,yes,1996,M3,yes,13.5
+BMW,15275.54,sedan,431,1.0,Gas,yes,2009,M3,no,12.1
+Mercedes-Benz,15996.51,hatchback,392,1.1,Diesel,yes,2023,E 320,no,7.9
+Audi,20864.72,SUV,418,1.1,Diesel,yes,2012,Q7,no,6.2
+BMW,16388.7,sedan,500,1.4,Gas,yes,1995,X5,no,14.2
+Audi,20074.4,hatchback,500,1.0,Gas,no,2009,A6,no,6.9
+Mercedes-Benz,31927.53,crossover,410,1.7,Petrol,yes,2017,Sprinter 212,no,13.9
+Mercedes-Benz,6818.23,sedan,446,1.0,Gas,yes,1999,E 320,no,12.1
+Ford,5664.09,van,491,2.3,Petrol,yes,2024,F-150,no,6.0
+BMW,18423.95,crossover,398,1.8,Petrol,yes,1999,M3,no,13.4
+Toyota,13553.9,SUV,455,1.4,Diesel,yes,1991,Camry,no,11.9
+Ford,14223.91,crossover,448,1.7,Diesel,no,2023,F-150,no,5.8
+Ford,18888.22,hatchback,394,1.4,Petrol,yes,1990,Focus,no,6.5
+Ford,26309.16,hatchback,388,1.5,Petrol,yes,1993,Explorer,no,8.6
+Audi,13960.91,hatchback,471,1.4,Gas,yes,1998,Q7,no,9.0
+Honda,28372.0,sedan,418,1.3,Diesel,yes,2016,CR-V,no,14.3
+Toyota,14573.87,SUV,448,1.2,Diesel,yes,2007,Rav 4,no,5.6
+Mercedes-Benz,22094.9,van,442,1.0,Diesel,yes,2015,C 200,no,7.2
+Toyota,35557.67,crossover,451,2.0,Petrol,yes,2010,Rav 4,no,9.1
+Audi,21056.42,crossover,382,2.2,Gas,no,2001,A4,no,8.9
+Audi,20982.71,sedan,500,1.0,Gas,yes,2012,A6,no,13.5
+Toyota,21675.95,SUV,383,1.4,Gas,yes,2014,Camry,no,10.0
+Audi,21074.86,SUV,494,1.1,Gas,yes,2003,A4,yes,12.2
+Mercedes-Benz,22151.3,crossover,468,1.7,Gas,yes,1989,E 320,no,14.6
+Honda,15379.37,hatchback,500,2.1,Gas,yes,1989,CR-V,no,11.0
+Ford,43642.77,hatchback,279,1.5,Petrol,yes,2007,Explorer,no,12.7
+Toyota,17456.59,hatchback,414,2.3,Gas,yes,2005,Camry,no,13.3
+Audi,29517.2,crossover,327,1.0,Petrol,yes,1999,A4,yes,12.5
+Ford,33641.51,hatchback,383,1.6,Petrol,no,2011,Focus,no,11.5
+Audi,20648.63,sedan,416,1.2,Diesel,yes,2022,A4,no,5.4
+Ford,23939.89,SUV,475,1.8,Petrol,yes,2011,Explorer,no,7.2
+BMW,13065.34,sedan,489,1.0,Diesel,yes,1996,320,no,7.1
+Audi,27313.12,sedan,334,1.6,Petrol,yes,2006,A6,no,6.0
+Honda,7480.63,SUV,500,1.0,Gas,no,1990,Accord,no,12.2
+Toyota,30699.54,hatchback,361,1.0,Diesel,yes,2012,Corolla,no,8.4
+Honda,21661.43,van,386,1.2,Gas,yes,1993,CR-V,no,7.4
+Honda,36487.45,crossover,267,2.0,Petrol,yes,2024,CR-V,no,9.1
+Honda,17043.73,SUV,415,1.3,Gas,yes,2015,Civic,no,6.0
+Mercedes-Benz,26538.47,SUV,374,2.4,Diesel,yes,1998,Sprinter 212,no,8.9
+Audi,29227.22,sedan,453,1.2,Diesel,yes,2000,Q7,no,8.2
+Honda,21674.58,crossover,486,1.3,Gas,yes,1997,Accord,no,9.6
+Audi,20488.49,sedan,485,1.8,Gas,yes,1996,Q7,no,7.4
+Audi,3000.0,crossover,500,1.7,Gas,no,2001,A6,no,14.1
+Ford,25086.67,hatchback,473,1.4,Diesel,yes,2018,Focus,yes,7.3
+BMW,9568.59,hatchback,459,1.0,Diesel,yes,2017,M3,yes,8.8
+Honda,26707.75,crossover,360,1.0,Gas,yes,2014,Accord,no,12.9
+Mercedes-Benz,35484.77,crossover,377,2.1,Petrol,yes,2004,E 320,no,12.8
+Audi,20456.39,hatchback,380,1.2,Gas,yes,1994,Q7,no,14.5
+Honda,29011.69,sedan,373,1.8,Diesel,yes,1990,Accord,no,14.9
+Honda,3845.69,hatchback,500,1.0,Petrol,yes,2008,CR-V,no,7.2
+Honda,27414.68,hatchback,451,1.9,Petrol,no,1991,Civic,yes,9.1
+Audi,25622.9,hatchback,457,1.0,Petrol,yes,1992,A4,no,14.5
+Honda,34198.5,sedan,433,1.9,Diesel,yes,2019,Civic,no,9.1
+Mercedes-Benz,17590.71,sedan,374,1.9,Gas,yes,2019,Sprinter 212,no,14.6
+Audi,24651.8,hatchback,480,1.7,Gas,yes,1990,Q7,no,12.0
+Audi,18748.17,hatchback,349,1.1,Gas,yes,2001,Q7,no,10.6
+Honda,37531.3,hatchback,328,2.7,Petrol,yes,1992,Civic,no,7.7
+Audi,12901.41,sedan,489,1.5,Petrol,yes,2019,A6,no,11.9
+Honda,13121.16,crossover,476,1.0,Gas,yes,1999,Civic,no,6.7
+Toyota,30145.77,SUV,368,1.0,Petrol,yes,1991,Camry,no,6.3
+Mercedes-Benz,24559.58,SUV,378,1.9,Gas,yes,2014,E 320,no,8.6
+Mercedes-Benz,13148.51,hatchback,415,1.6,Gas,yes,2014,E 320,no,8.9
+Honda,16055.64,crossover,458,1.8,Gas,no,1997,CR-V,no,8.9
+Ford,18816.38,van,500,2.1,Petrol,yes,2005,Focus,no,9.0
+Toyota,11071.92,SUV,500,1.7,Petrol,yes,2022,Camry,no,7.3
+Toyota,31256.23,crossover,361,1.8,Diesel,yes,2005,Camry,no,12.0
+Honda,46225.75,hatchback,274,2.2,Petrol,yes,2005,Civic,no,12.8
+Audi,18066.84,sedan,500,1.5,Gas,yes,1994,Q7,no,12.6
+Ford,45819.32,SUV,324,2.0,Diesel,yes,2013,Explorer,no,9.1
+Honda,33661.02,sedan,418,1.0,Diesel,no,1997,CR-V,no,5.3
+Toyota,34226.17,hatchback,359,2.8,Petrol,yes,1990,Corolla,no,13.6
+Ford,19233.53,hatchback,422,1.7,Gas,yes,2003,Explorer,no,9.6
+Audi,32311.97,crossover,454,1.3,Petrol,yes,2014,A4,no,11.2
+BMW,20316.57,sedan,364,1.7,Diesel,yes,2024,M3,no,8.2
+Mercedes-Benz,23533.78,sedan,362,1.8,Diesel,yes,2005,C 200,yes,13.5
+Honda,40067.07,sedan,334,1.2,Petrol,yes,1990,Accord,no,12.5
+Toyota,21540.56,sedan,405,1.0,Gas,yes,2006,Corolla,no,10.5
+Mercedes-Benz,13616.43,sedan,470,2.1,Gas,yes,1993,Sprinter 212,no,6.5
+Toyota,17785.38,crossover,495,1.0,Diesel,yes,2007,Rav 4,no,6.3
+Audi,31231.16,SUV,381,1.0,Diesel,yes,2010,A4,no,14.6
+Ford,28948.68,crossover,462,1.5,Petrol,yes,2016,Explorer,no,12.8
+Toyota,24364.3,hatchback,330,1.5,Gas,yes,1995,Camry,no,10.8
+Ford,21373.02,hatchback,500,1.5,Diesel,yes,2023,Focus,no,9.4
+Toyota,28982.9,sedan,390,2.2,Petrol,yes,1998,Corolla,no,12.6
+Toyota,27047.3,sedan,380,2.3,Petrol,yes,2015,Corolla,no,5.1
+Honda,31242.72,hatchback,290,2.6,Diesel,yes,2021,Civic,no,7.4
+Ford,28715.86,hatchback,395,1.5,Gas,yes,2007,F-150,no,6.5
+Ford,27041.42,crossover,426,1.5,Gas,yes,2020,Focus,no,5.8
+Ford,16851.15,hatchback,472,1.0,Gas,yes,1998,F-150,no,8.2
+BMW,20782.64,hatchback,464,1.0,Gas,yes,1997,M3,yes,8.6
+Toyota,3639.88,hatchback,500,2.0,Gas,no,1994,Corolla,no,14.8
+Ford,22544.04,sedan,478,1.7,Diesel,yes,2018,Explorer,no,5.2
+Audi,28389.82,sedan,387,2.1,Petrol,yes,2010,A6,no,8.5
+Mercedes-Benz,20289.62,sedan,389,1.1,Petrol,no,2005,Sprinter 212,no,7.6
+Ford,14708.11,van,427,1.2,Diesel,yes,2021,F-150,no,13.9
+BMW,21486.31,SUV,400,1.2,Gas,yes,2007,320,yes,9.8
+Honda,22275.24,hatchback,425,2.3,Diesel,yes,1995,Civic,no,13.5
+Toyota,38161.72,hatchback,389,1.3,Diesel,yes,2022,Camry,no,13.4
+BMW,53022.78,SUV,138,2.0,Petrol,yes,2017,X5,no,7.8
+Honda,21444.58,sedan,428,2.2,Gas,yes,1989,Civic,no,5.9
+BMW,18062.48,sedan,500,1.4,Gas,no,2024,320,no,7.6
+Honda,17464.05,sedan,466,2.1,Diesel,yes,1991,CR-V,no,10.8
+BMW,27230.59,sedan,426,1.7,Diesel,yes,2009,320,no,9.4
+BMW,26967.96,sedan,418,1.4,Petrol,yes,1993,320,no,8.6
+Ford,33954.18,crossover,385,1.3,Diesel,yes,1997,F-150,no,7.7
+Ford,12601.51,crossover,500,2.0,Gas,yes,2001,Focus,no,12.0
+Toyota,21966.91,hatchback,405,1.0,Petrol,yes,2004,Corolla,no,6.3
+Toyota,17332.4,sedan,446,1.9,Diesel,yes,2021,Corolla,no,8.9
+Audi,16584.72,crossover,378,1.4,Gas,yes,2019,A6,no,9.6
+Honda,15355.31,crossover,357,1.4,Diesel,yes,2017,CR-V,no,10.4
+Toyota,27190.67,crossover,403,2.5,Petrol,yes,2021,Rav 4,no,14.5
+Toyota,33904.78,SUV,291,1.9,Petrol,yes,2024,Corolla,no,12.2
+Honda,15631.18,SUV,484,2.1,Gas,yes,1999,CR-V,yes,8.6
+Honda,40024.86,SUV,422,1.5,Petrol,yes,1991,CR-V,no,12.2
+Mercedes-Benz,47257.59,sedan,270,1.5,Petrol,yes,1989,C 200,no,12.2
+BMW,25110.52,hatchback,407,1.6,Diesel,no,2020,X5,no,11.2
+Toyota,33551.17,sedan,409,1.4,Petrol,yes,2018,Corolla,no,6.2
+Toyota,28907.35,crossover,389,2.0,Petrol,yes,2002,Rav 4,no,14.8
+Honda,33198.55,sedan,334,1.6,Petrol,yes,2009,Accord,no,7.8
+Honda,25667.21,SUV,347,2.5,Gas,yes,2011,CR-V,no,13.5
+Mercedes-Benz,31300.32,sedan,368,1.1,Petrol,no,2013,Sprinter 212,yes,9.5
+Audi,6661.9,crossover,500,1.0,Gas,yes,2001,A4,no,6.5
+Audi,17532.94,hatchback,337,1.2,Petrol,yes,2003,Q7,no,8.9
+Toyota,11597.45,crossover,472,1.0,Gas,yes,2018,Camry,no,9.7
+BMW,25443.83,hatchback,492,1.8,Gas,yes,2009,320,no,13.9
+Toyota,27426.3,sedan,339,2.0,Gas,yes,2017,Camry,no,14.8
+Mercedes-Benz,3101.9,sedan,484,1.9,Diesel,yes,2008,E 320,no,8.0
+BMW,36623.25,sedan,396,1.7,Diesel,yes,2016,M3,no,11.3
+Audi,38532.99,crossover,376,1.3,Diesel,yes,2009,Q7,no,8.8
+Toyota,13831.99,sedan,461,1.3,Gas,yes,2013,Rav 4,no,5.0
+Audi,33999.66,van,412,1.3,Diesel,yes,2012,A6,no,14.1
+Mercedes-Benz,34816.2,sedan,432,2.1,Petrol,yes,2003,Sprinter 212,no,5.9
+BMW,23383.73,crossover,445,1.2,Gas,yes,2003,320,no,7.0
+BMW,21861.36,crossover,361,1.3,Diesel,yes,2016,M3,no,9.8
+Honda,11866.49,sedan,459,1.0,Diesel,yes,2024,Civic,no,9.3
+BMW,9275.55,crossover,500,1.0,Diesel,yes,2015,M3,no,9.2
+Honda,20363.74,crossover,432,2.0,Gas,yes,2001,CR-V,no,13.8
+BMW,21128.27,sedan,419,2.4,Petrol,yes,2003,X5,no,11.6
+Audi,26391.71,hatchback,297,2.2,Diesel,yes,2018,A4,no,9.4
+Audi,33372.9,SUV,359,1.8,Petrol,yes,2008,A6,no,10.0
+Honda,15729.73,hatchback,500,1.0,Diesel,yes,2006,Accord,no,13.7
+Mercedes-Benz,18957.73,crossover,442,1.0,Gas,yes,2001,C 200,no,5.2
+Honda,27911.6,SUV,410,2.0,Gas,yes,2020,CR-V,no,7.7
+BMW,11639.56,hatchback,497,1.2,Petrol,yes,2024,320,no,13.6
+Ford,17118.27,van,500,1.9,Gas,yes,1995,Focus,no,12.8
+Ford,30300.43,sedan,391,2.8,Diesel,yes,2015,F-150,no,7.4
+BMW,3000.0,van,500,1.2,Petrol,yes,2006,M3,yes,7.6
+Honda,19058.83,crossover,434,2.0,Gas,yes,1992,Civic,no,5.1
+Honda,27963.35,sedan,413,1.0,Gas,yes,2010,CR-V,no,9.6
+Audi,19003.02,hatchback,454,1.8,Diesel,yes,2012,A6,no,6.3
+BMW,15708.68,sedan,405,1.0,Petrol,yes,1989,M3,no,11.1
+Honda,50606.95,crossover,295,2.3,Petrol,yes,2006,Civic,no,13.6
+Mercedes-Benz,28633.42,sedan,352,1.8,Petrol,yes,1997,Sprinter 212,no,13.2
+Audi,17901.04,SUV,371,2.3,Gas,yes,2021,A4,no,8.4
+Toyota,22704.78,hatchback,392,1.3,Diesel,yes,2022,Camry,no,8.1
+Mercedes-Benz,22380.25,hatchback,344,1.0,Diesel,no,1989,C 200,no,6.8
+BMW,30942.0,sedan,387,1.7,Gas,no,2008,320,no,5.6
+Ford,26177.13,van,373,1.7,Gas,yes,1990,F-150,no,11.5
+Toyota,14673.07,sedan,500,1.1,Diesel,yes,2023,Rav 4,no,7.3
+BMW,23271.17,van,431,2.0,Diesel,yes,2017,320,no,12.8
+Toyota,13606.31,crossover,490,1.4,Gas,yes,1999,Corolla,no,6.7
+Audi,13642.48,crossover,483,1.1,Diesel,no,1998,A4,no,13.5
+Mercedes-Benz,21270.23,sedan,473,2.0,Gas,yes,1990,C 200,no,7.4
+Audi,8663.91,hatchback,496,1.2,Gas,yes,1989,Q7,yes,8.0
+Ford,26057.9,hatchback,403,1.0,Gas,yes,2007,Explorer,no,7.0
+Toyota,33589.38,SUV,447,1.0,Diesel,yes,1989,Rav 4,no,13.1
+Ford,13857.58,sedan,412,1.5,Gas,yes,1991,F-150,no,6.7
+Audi,26514.19,SUV,369,1.0,Gas,yes,2001,A6,no,13.2
+Audi,34681.06,van,328,1.9,Petrol,yes,2005,Q7,no,10.9
+Honda,17645.36,sedan,397,1.9,Diesel,yes,2023,Civic,no,13.1
+Mercedes-Benz,32723.97,van,379,1.7,Diesel,yes,2000,Sprinter 212,no,12.5
+Ford,16921.31,hatchback,462,1.1,Gas,yes,2012,F-150,no,12.3
+Honda,20136.77,van,470,1.3,Diesel,yes,1995,Civic,no,8.0
+BMW,25095.99,crossover,375,1.9,Diesel,yes,1994,320,no,10.5
+Toyota,20789.74,crossover,500,1.6,Diesel,yes,1997,Camry,no,13.9
+Audi,24521.21,SUV,365,1.8,Petrol,yes,2020,A6,no,10.1
+Honda,9662.33,hatchback,456,1.5,Gas,yes,2020,Civic,no,12.9
+Audi,27145.22,hatchback,457,1.4,Petrol,yes,2006,Q7,no,6.0
+Honda,31969.72,sedan,363,2.3,Diesel,yes,1995,CR-V,no,9.8
+Ford,42538.04,sedan,313,1.6,Diesel,yes,1994,Explorer,no,12.6
+Audi,32256.69,hatchback,312,1.6,Gas,yes,2005,Q7,yes,5.8
+Audi,28827.98,SUV,359,1.4,Gas,yes,1989,A4,no,10.1
+Toyota,34266.3,crossover,337,1.7,Petrol,yes,2005,Camry,yes,7.6
+Honda,26844.65,sedan,384,1.7,Diesel,yes,1998,Civic,no,10.1
+Mercedes-Benz,38741.89,sedan,343,1.0,Petrol,yes,2023,C 200,no,9.1
+Honda,32373.35,crossover,358,1.9,Petrol,yes,2011,Civic,no,12.8
+Audi,26457.43,hatchback,422,2.1,Petrol,yes,2013,A6,no,14.0
+Mercedes-Benz,10038.09,SUV,426,1.9,Gas,yes,2010,C 200,no,6.8
+Mercedes-Benz,36998.31,hatchback,358,2.9,Diesel,yes,2012,E 320,no,6.5
+Audi,22583.5,hatchback,500,2.3,Diesel,yes,2006,A4,no,6.9
+Ford,18860.58,hatchback,493,1.6,Diesel,yes,2015,F-150,no,11.5
+Toyota,18235.82,sedan,384,1.2,Diesel,yes,2015,Camry,no,12.3
+Ford,19575.43,crossover,408,1.5,Gas,yes,2014,F-150,no,13.1
+Mercedes-Benz,19268.23,hatchback,500,1.9,Petrol,yes,2019,E 320,yes,8.7
+Ford,14397.32,SUV,432,1.6,Gas,yes,2024,Explorer,no,8.8
+Ford,31551.47,crossover,486,1.6,Diesel,yes,2024,F-150,no,11.8
+Ford,22985.82,van,426,1.0,Petrol,yes,2001,Focus,no,10.8
+Mercedes-Benz,11840.63,hatchback,500,2.0,Gas,yes,2020,C 200,no,9.8
+Honda,21330.99,hatchback,428,2.1,Petrol,yes,2022,Accord,no,5.1
+Mercedes-Benz,10880.48,hatchback,487,2.2,Petrol,yes,2006,E 320,yes,8.6
+Honda,42019.55,hatchback,358,2.8,Petrol,yes,2013,Accord,no,5.5
+Toyota,35701.23,crossover,456,2.4,Petrol,no,1994,Corolla,no,13.5
+Mercedes-Benz,29286.71,sedan,376,2.1,Petrol,yes,2015,E 320,no,5.9
+Toyota,15282.69,hatchback,444,1.6,Petrol,yes,2015,Camry,yes,10.0
+Mercedes-Benz,26804.8,hatchback,429,1.5,Gas,yes,2011,C 200,no,8.2
+Toyota,10671.06,sedan,500,1.0,Diesel,yes,2006,Rav 4,no,10.3
+Ford,23134.22,van,392,2.2,Diesel,yes,2006,Focus,yes,11.6
+Toyota,23883.69,sedan,452,1.0,Petrol,yes,2002,Camry,no,14.1
+BMW,13368.35,SUV,462,1.1,Petrol,no,2003,320,no,14.7
+Honda,25929.13,SUV,422,1.5,Gas,yes,2019,CR-V,no,7.5
+BMW,28275.35,sedan,500,1.3,Gas,yes,2010,X5,no,11.6
+Ford,31397.17,SUV,373,2.6,Petrol,yes,1997,Focus,no,5.5
+Toyota,15517.05,SUV,500,1.1,Gas,yes,2019,Corolla,no,10.7
+BMW,5305.13,van,489,1.2,Diesel,yes,1998,320,no,5.9
+Audi,19051.62,sedan,359,1.0,Petrol,yes,1991,A4,no,9.9
+Ford,21028.57,van,499,1.1,Diesel,yes,2017,Explorer,no,11.1
+Ford,36188.78,hatchback,342,2.2,Diesel,no,1997,Explorer,no,6.1
+Toyota,9001.74,crossover,478,1.9,Gas,yes,2022,Camry,no,9.4
+Mercedes-Benz,22158.6,sedan,416,1.5,Gas,yes,2009,Sprinter 212,no,8.6
+Toyota,13757.09,crossover,486,2.2,Gas,yes,2008,Corolla,no,6.5
+BMW,10827.22,crossover,474,2.1,Gas,yes,2020,320,no,8.5
+Mercedes-Benz,26733.81,hatchback,382,1.6,Petrol,no,2008,C 200,no,11.5
+Audi,14018.31,SUV,500,1.0,Gas,yes,2012,A4,no,6.3
+Audi,25731.34,crossover,398,1.5,Gas,yes,2014,A4,no,10.0
+Ford,50794.01,crossover,318,2.2,Petrol,yes,2001,Focus,no,5.5
+Ford,20411.97,hatchback,491,1.0,Gas,yes,2008,Focus,no,12.6
+Audi,27996.77,sedan,411,2.0,Diesel,yes,2023,A6,no,14.3
+Honda,26885.15,crossover,372,1.0,Diesel,yes,2006,Accord,no,10.2
+Ford,8761.82,crossover,432,1.3,Gas,yes,2000,Explorer,no,12.0
+Toyota,31120.09,hatchback,428,2.4,Gas,yes,2009,Corolla,no,14.0
+Audi,28459.48,crossover,466,1.0,Petrol,yes,2005,A6,no,13.2
+BMW,20146.27,crossover,327,1.4,Gas,yes,1990,M3,no,12.7
+Mercedes-Benz,29043.32,hatchback,421,1.5,Diesel,yes,2020,E 320,no,6.5
+Mercedes-Benz,23439.46,SUV,485,1.8,Diesel,yes,2015,C 200,no,11.7
+BMW,12210.64,van,425,1.4,Gas,yes,1992,X5,no,10.5
+Toyota,18049.07,sedan,411,1.5,Gas,yes,2008,Rav 4,no,8.3
+Ford,6197.32,crossover,476,1.0,Gas,yes,2018,F-150,no,12.2
+Mercedes-Benz,22235.46,hatchback,445,1.3,Diesel,yes,2010,E 320,no,9.5
+Toyota,16734.57,crossover,483,2.0,Petrol,yes,1996,Camry,no,7.4
+BMW,22732.98,hatchback,412,2.6,Diesel,yes,1989,M3,no,6.3
+Mercedes-Benz,12110.37,crossover,491,1.2,Gas,yes,1999,E 320,no,11.9
+Mercedes-Benz,38422.4,sedan,320,1.5,Petrol,yes,2006,Sprinter 212,no,8.0
+Mercedes-Benz,22341.88,hatchback,452,1.4,Gas,yes,2009,C 200,no,7.1
+BMW,20060.49,sedan,382,1.3,Petrol,yes,2021,M3,yes,11.6
+Ford,30512.42,sedan,412,2.0,Gas,yes,1996,Explorer,no,13.6
+Ford,29710.62,hatchback,354,2.1,Diesel,yes,2018,Explorer,no,11.4
+Ford,23618.28,hatchback,418,1.7,Gas,yes,2017,Explorer,no,8.6
+Toyota,27599.18,sedan,297,1.5,Gas,yes,1994,Rav 4,no,12.4
+Mercedes-Benz,32984.45,crossover,304,1.6,Petrol,yes,2011,E 320,no,11.5
+Ford,14879.23,hatchback,439,1.5,Petrol,yes,2001,Explorer,no,10.3
+Mercedes-Benz,14265.88,sedan,423,1.4,Petrol,no,2003,E 320,no,8.1
+Toyota,8206.77,van,481,1.0,Petrol,yes,2006,Camry,no,13.0
+Toyota,7481.73,hatchback,500,1.6,Gas,yes,2019,Rav 4,no,6.2
+Ford,24202.86,van,453,1.9,Petrol,yes,2020,Focus,no,14.5
+Honda,12350.89,sedan,473,1.6,Diesel,yes,2000,CR-V,no,9.5
+Ford,17468.06,crossover,500,1.0,Gas,no,2011,F-150,no,12.6
+BMW,13020.93,crossover,470,1.9,Gas,no,1990,M3,no,7.9
+Ford,21466.75,SUV,400,1.3,Gas,yes,2015,F-150,yes,11.2
+Mercedes-Benz,25200.49,sedan,383,1.3,Diesel,yes,2005,C 200,no,8.1
+BMW,34835.56,crossover,314,1.6,Diesel,yes,2000,M3,yes,13.3
+Honda,24297.04,hatchback,326,1.6,Diesel,yes,1997,CR-V,no,9.1
+Mercedes-Benz,30786.14,crossover,391,1.8,Petrol,yes,2004,Sprinter 212,no,13.2
+Ford,19604.98,crossover,319,1.0,Gas,yes,2011,Explorer,yes,6.4
+Mercedes-Benz,23337.31,hatchback,395,1.2,Gas,yes,2009,E 320,no,13.8
+Audi,42652.96,van,349,1.5,Gas,yes,2013,A6,yes,6.7
+Ford,17791.8,sedan,436,1.4,Diesel,yes,1992,Explorer,yes,10.8
+Audi,3000.0,crossover,500,1.0,Petrol,yes,2004,Q7,no,9.9
+BMW,31935.75,crossover,345,3.2,Petrol,yes,2000,X5,no,7.4
+Ford,23683.25,crossover,468,1.0,Gas,yes,2012,Explorer,no,5.0
+Honda,26667.12,van,473,1.8,Gas,yes,2023,Civic,no,14.3
+Honda,25403.71,hatchback,394,2.8,Petrol,yes,2003,Accord,no,14.3
+Ford,31981.72,hatchback,411,2.1,Diesel,yes,2019,Focus,no,6.0
+Honda,12949.1,sedan,500,1.7,Petrol,yes,2001,Civic,no,5.0
+Toyota,12591.75,hatchback,495,1.6,Gas,yes,2000,Camry,no,13.6
+Audi,15012.19,crossover,500,1.4,Diesel,yes,2019,A4,no,9.4
+BMW,21852.32,hatchback,403,3.0,Gas,yes,2023,M3,yes,6.2
+BMW,29207.57,SUV,460,2.7,Diesel,yes,2005,320,no,12.8
+Toyota,18063.26,crossover,456,1.0,Petrol,yes,1998,Rav 4,no,11.9
+BMW,25147.26,sedan,458,1.0,Petrol,yes,1989,320,no,12.3
+Mercedes-Benz,18985.83,hatchback,474,1.0,Diesel,yes,1989,Sprinter 212,no,8.0
+Audi,19284.1,hatchback,487,1.0,Diesel,yes,1998,Q7,no,11.5
+Toyota,30157.98,hatchback,458,2.0,Diesel,yes,2022,Corolla,no,5.1
+Audi,21453.59,sedan,500,3.0,Petrol,yes,2023,A4,yes,11.5
+Toyota,26725.43,crossover,380,1.8,Petrol,yes,2003,Camry,no,8.2
+BMW,25509.74,sedan,335,2.6,Gas,yes,2014,M3,no,14.7
+Ford,15353.91,sedan,459,1.8,Gas,yes,1993,Explorer,no,13.9
+Toyota,9280.64,hatchback,484,1.4,Gas,yes,2013,Corolla,no,13.3
+Honda,28067.67,SUV,436,1.8,Petrol,yes,2019,Accord,no,8.5
+Audi,23770.51,crossover,485,1.7,Diesel,yes,2000,A6,no,10.7
+Toyota,23436.1,hatchback,445,2.3,Gas,yes,2005,Corolla,no,12.9
+BMW,25119.4,hatchback,383,1.6,Diesel,no,2008,320,no,9.5
+Toyota,6434.5,SUV,493,1.1,Gas,yes,1997,Rav 4,no,7.0
+Audi,19671.75,hatchback,345,1.6,Petrol,yes,2012,Q7,no,8.9
+BMW,19298.5,crossover,454,2.0,Gas,yes,1996,X5,no,10.7
+Mercedes-Benz,28853.98,hatchback,350,2.2,Diesel,yes,2021,C 200,no,9.9
+Ford,17158.44,SUV,426,1.4,Petrol,yes,2004,Explorer,no,12.0
+BMW,35770.32,SUV,365,2.2,Petrol,yes,2007,320,no,6.8
+Toyota,6385.58,hatchback,477,1.2,Gas,yes,2005,Corolla,no,5.0
+BMW,20002.75,crossover,500,2.1,Gas,yes,2021,X5,no,6.6
+Ford,22963.67,hatchback,483,2.3,Gas,no,2014,F-150,no,11.5
+Toyota,10858.28,crossover,358,1.4,Diesel,yes,1997,Camry,no,14.6
+Ford,14394.02,crossover,500,1.0,Petrol,yes,1990,Explorer,yes,9.9
+Toyota,33230.99,SUV,405,2.5,Gas,yes,1996,Corolla,no,13.3
+Honda,20732.72,crossover,437,1.9,Gas,yes,2016,Civic,no,14.1
+Toyota,19105.1,SUV,463,2.0,Gas,yes,2016,Corolla,yes,9.7
+BMW,15148.81,SUV,476,1.0,Gas,yes,2023,320,no,5.4
+Ford,47984.33,van,288,2.5,Petrol,yes,2016,Explorer,no,10.0
+Ford,13798.57,SUV,432,1.3,Gas,yes,2013,Focus,no,8.4
+Ford,13879.56,sedan,490,1.0,Gas,yes,1992,F-150,no,7.9
+Honda,25710.59,crossover,401,1.2,Diesel,yes,2008,CR-V,no,6.2
+Ford,16864.09,crossover,433,2.0,Gas,yes,1995,F-150,no,13.4
+Mercedes-Benz,25422.18,sedan,406,2.0,Gas,yes,1997,E 320,no,12.3
+Audi,13754.64,van,500,1.0,Diesel,yes,2008,A6,no,12.1
+Mercedes-Benz,37987.25,crossover,399,1.6,Petrol,yes,2004,E 320,no,12.3
+BMW,33414.1,crossover,302,2.1,Diesel,yes,1991,320,no,15.0
+Audi,10088.66,sedan,500,1.0,Diesel,yes,1992,Q7,no,8.6
+BMW,27389.28,hatchback,327,1.6,Gas,yes,2023,M3,yes,9.1
+Mercedes-Benz,33954.12,SUV,347,1.6,Petrol,no,1991,Sprinter 212,no,10.2
+Audi,3000.0,hatchback,500,1.0,Gas,yes,2007,A4,no,5.4
+Audi,11690.27,sedan,395,1.2,Diesel,yes,2002,A4,no,14.8
+BMW,32899.2,hatchback,390,2.6,Petrol,yes,2015,X5,no,8.3
+BMW,10989.42,van,500,1.0,Petrol,yes,2003,320,no,13.1
+Honda,33607.82,van,394,3.3,Petrol,yes,1989,Civic,no,8.7
+Ford,24081.76,crossover,388,2.0,Gas,yes,2002,Focus,no,6.5
+Ford,26964.06,hatchback,457,1.2,Petrol,yes,2004,Focus,no,8.3
+Ford,16784.52,SUV,463,1.1,Gas,yes,1999,Focus,yes,7.3
+Ford,21257.82,hatchback,500,2.6,Petrol,yes,2012,Explorer,no,6.4
+Ford,22338.2,hatchback,488,2.3,Gas,yes,1995,F-150,yes,8.7
+Toyota,29427.47,sedan,323,1.6,Gas,yes,1994,Rav 4,no,10.4
+Ford,27467.05,crossover,407,2.0,Gas,yes,2016,Explorer,no,11.6
+Mercedes-Benz,33048.23,crossover,313,2.6,Diesel,yes,2017,E 320,no,13.8
+BMW,32192.52,sedan,389,1.1,Diesel,yes,2022,320,no,12.3
+Ford,25462.26,crossover,471,2.1,Diesel,yes,1993,Focus,no,6.0
+Mercedes-Benz,13573.42,hatchback,500,2.1,Diesel,yes,2013,E 320,no,9.9
+Ford,8021.2,hatchback,500,1.6,Diesel,yes,2000,Explorer,no,13.1
+Mercedes-Benz,39894.64,crossover,328,2.2,Diesel,yes,2018,Sprinter 212,no,12.9
+Toyota,17515.34,sedan,459,1.7,Gas,yes,1989,Camry,no,11.2
+BMW,18552.74,hatchback,472,1.2,Gas,yes,2021,M3,no,9.5
+Mercedes-Benz,23462.44,sedan,435,2.3,Diesel,yes,2024,C 200,no,7.8
+Audi,13986.62,crossover,496,1.2,Gas,yes,2021,Q7,yes,8.6
+BMW,5963.76,crossover,500,1.3,Gas,no,2011,X5,no,14.0
+Toyota,13732.09,crossover,472,1.4,Petrol,yes,2016,Camry,no,12.9
+Honda,20949.42,van,400,1.1,Gas,yes,1997,CR-V,no,12.0
+BMW,10749.76,hatchback,439,1.0,Diesel,yes,2007,X5,no,5.2
+Audi,17107.13,hatchback,406,1.6,Gas,yes,2005,Q7,yes,10.1
+Mercedes-Benz,6066.79,hatchback,500,1.3,Gas,yes,2021,C 200,no,11.1
+Ford,26697.33,sedan,378,2.6,Diesel,yes,1991,F-150,no,11.8
+Mercedes-Benz,24122.3,crossover,431,1.9,Diesel,yes,2014,C 200,no,5.8
+Ford,24180.35,sedan,315,1.8,Petrol,yes,2005,F-150,no,10.9
+BMW,29130.7,crossover,424,1.0,Petrol,yes,1992,320,no,13.8
+Honda,13085.54,van,500,1.2,Diesel,yes,2000,Civic,no,7.2
+BMW,29387.14,crossover,442,1.4,Gas,yes,1989,M3,no,7.1
+Honda,11659.07,hatchback,476,1.0,Petrol,yes,2012,Civic,no,13.8
+Mercedes-Benz,23836.43,hatchback,434,1.3,Diesel,yes,2005,C 200,no,12.3
+Mercedes-Benz,10561.34,sedan,500,1.9,Gas,yes,1995,Sprinter 212,no,8.8
+Toyota,8932.0,crossover,384,1.3,Gas,yes,2009,Camry,no,8.2
+Mercedes-Benz,36643.56,hatchback,286,2.1,Petrol,no,2024,Sprinter 212,no,5.7
+Audi,7703.74,sedan,426,1.4,Gas,yes,2022,Q7,no,13.7
+Mercedes-Benz,14545.28,sedan,479,2.1,Gas,yes,1991,E 320,no,6.3
+Toyota,20259.35,SUV,390,1.0,Gas,yes,2016,Camry,no,13.4
+Honda,28591.01,hatchback,430,1.1,Petrol,yes,1992,CR-V,no,10.9
+Audi,12529.84,sedan,494,1.0,Gas,yes,2010,A4,no,10.5
+Mercedes-Benz,11716.97,van,466,1.0,Gas,yes,1997,Sprinter 212,no,12.8
+Honda,18221.71,hatchback,470,2.2,Gas,yes,2017,Civic,no,6.7
+BMW,15437.1,crossover,390,1.0,Diesel,yes,2000,320,no,14.4
+BMW,36451.6,van,306,2.3,Petrol,no,2015,320,no,14.8
+BMW,3000.0,hatchback,500,1.0,Gas,yes,1996,M3,no,12.2
+Toyota,27300.4,hatchback,419,2.1,Petrol,yes,2020,Camry,no,8.5
+Toyota,15476.17,hatchback,455,1.3,Petrol,yes,2017,Corolla,no,12.3
+Audi,18709.18,crossover,480,1.5,Gas,yes,2001,A4,yes,12.5
+Mercedes-Benz,42475.69,crossover,260,1.3,Petrol,yes,2009,Sprinter 212,no,5.9
+Toyota,15452.18,crossover,443,1.0,Petrol,yes,2004,Rav 4,no,10.1
+Ford,16816.41,crossover,489,1.3,Diesel,yes,2004,Explorer,no,14.4
+BMW,24332.49,hatchback,362,1.8,Petrol,no,1999,X5,no,7.0
+Mercedes-Benz,13230.75,sedan,415,1.0,Gas,yes,2023,Sprinter 212,no,8.5
+BMW,28924.23,sedan,388,2.4,Gas,yes,2015,320,no,9.2
+BMW,16983.02,crossover,500,1.1,Gas,yes,2000,M3,no,10.5
